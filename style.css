@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Jetbrains Mono';
+    src: url(./jbmono.ttf);
+}
+body {
+    font-family: 'Jetbrains Mono', monospace;
+    font-size: large;
+    background-color: #222324;
+    color: #BABABA;
+}
+
+a {
+    color: inherit;
+}
+
+.url {
+    color: #88C0D0;
+    font-weight: bold;
+}
+
+.gpg {
+    color: #B48EAD;
+}
+
+.content {
+    max-width: 900px;
+    padding: 5px;
+    margin: auto;
+}
