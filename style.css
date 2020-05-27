@@ -1,12 +1,12 @@
 @font-face {
-    font-family: 'Jetbrains Mono';
-    src: url(./jbmono.ttf);
+    font-family: 'lain';
+    src: url(./jmh_typewriter.otf);
 }
 body {
-    font-family: 'Jetbrains Mono', monospace;
+    font-family: 'lain', monospace;
     font-size: large;
-    background-color: #f1f1f1;
-    color: #424242;
+    background-color: #222222;
+    color: #c2c2b0;
 }
 
 a {
@@ -14,12 +14,12 @@ a {
 }
 
 .url {
-    color: #20a5ba;
+    color: #528b8b;
     font-weight: bold;
 }
 
 .gpg {
-    color: #523c79;
+    color: #8f6f8f;
 }
 
 .content {
