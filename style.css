@@ -5,8 +5,8 @@
 body {
     font-family: 'lain', monospace;
     font-size: large;
-    background-color: #222222;
-    color: #c2c2b0;
+    background-color: #1d1f28;
+    color: #fdfdfd;
 }
 
 a {
@@ -14,12 +14,12 @@ a {
 }
 
 .url {
-    color: #528b8b;
+    color: #8897f4;
     font-weight: bold;
 }
 
 .gpg {
-    color: #8f6f8f;
+    color: #c574dd;
 }
 
 .content {
